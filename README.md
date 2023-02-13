@@ -1,4 +1,4 @@
-# Vistas_dinamicas_EJS-
+# Vistas_dinamicas_EJS
 Trabajo practico con EJS de el curso de Digital house Pimienta y sal.
 
 Agrego captura de pantalla.
